@@ -1,0 +1,9 @@
+{"timestamp": 1666042921365837725, "load average": 2.26, "iowait": 0.0, "mem_available": 1466292, "swap_free": 13753184, "mem_active": 1656900}
+{"timestamp": 1666042981439034883, "load average": 1.47, "iowait": 0.0, "mem_available": 1494848, "swap_free": 13753184, "mem_active": 1657256}
+{"timestamp": 1666043041519584723, "load average": 1.29, "iowait": 0.0, "mem_available": 1487744, "swap_free": 13753184, "mem_active": 1657680}
+{"timestamp": 1666043101605946053, "load average": 3.45, "iowait": 0.0, "mem_available": 1472744, "swap_free": 13753440, "mem_active": 1658560}
+{"timestamp": 1666043161689969665, "load average": 1.65, "iowait": 0.08, "mem_available": 1497252, "swap_free": 13753440, "mem_active": 1678912}
+{"timestamp": 1666043221749009878, "load average": 1.1, "iowait": 0.08, "mem_available": 1503780, "swap_free": 13753440, "mem_active": 1668640}
+{"timestamp": 1666043281841746152, "load average": 1.13, "iowait": 0.0, "mem_available": 1493928, "swap_free": 13753440, "mem_active": 1669048}
+{"timestamp": 1666043341897694531, "load average": 0.63, "iowait": 0.0, "mem_available": 1474660, "swap_free": 13753440, "mem_active": 1666980}
+{"timestamp": 1666043401987861633, "load average": 0.65, "iowait": 0.0, "mem_available": 1404624, "swap_free": 13740128, "mem_active": 1659916}
